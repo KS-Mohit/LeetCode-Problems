@@ -1,0 +1,16 @@
+The "Valid Anagram" is a common and beginner-friendly DSA interview question that checks your understanding of strings and hash maps.
+
+✅ Problem Statement: Valid Anagram
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+🔹 An anagram is formed by rearranging the letters of another word using all the original letters exactly once.
+
+🧠 Example
+python
+Copy
+Edit
+Input: s = "listen", t = "silent"
+Output: True
+
+Input: s = "rat", t = "car"
+Output: False
